@@ -1,4 +1,4 @@
-# Welcome ro my GitHub Repository!
+# Welcome to my GitHub Repository!
 
 In this repository, I will present the personal and group projects I have created during my Master in Business Analytics and Big Data, IE Univeristy.
 
