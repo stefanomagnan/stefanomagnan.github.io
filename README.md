@@ -1,6 +1,6 @@
 # Welcome to my GitHub Repository!
 
-In this repository, I will present the personal and group projects I have created during my Master in Business Analytics and Big Data, IE University.
+In this repository, I will present the personal and group projects I have created during my Master in Business Analytics and Big Data I am doing at IE University.
 
 Following, a brief description of each project you can find in this repository.
 
