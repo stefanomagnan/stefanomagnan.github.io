@@ -10,7 +10,7 @@ In this project, me and my group analysed data related to bike sharing utilisati
 
 ## CS – GO Prediction - Classification Project
 
-In this project, me and my group analysed data related to hundreds of demos from high level tournament of the popular game Counter Strike – Global Offensive. The aim of the project was to create a ML Pipeline to predict the victory of a round in the game, given many features related to player characteristics (n of previous round won, type of weapons used…). The software used for the analysis was Python, especially the library Sklearn. The final result achieved was an accuracy of 85%, using Random Forest Classifier.
+In this project, me and my group analysed data related to hundreds of demos from high level tournament of the popular game Counter Strike – Global Offensive. The aim of the project was to create a ML Pipeline to predict the victory of a round in the game, given many features related to player characteristics (number of previous rounds won, type of weapons used…). The software used for the analysis was Python, especially the library Sklearn. The final result achieved was an accuracy of 85%, using Random Forest Classifier.
 
 ## Food Classification – Computer Vision Project
 
